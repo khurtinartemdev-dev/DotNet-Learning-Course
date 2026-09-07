@@ -1,0 +1,38 @@
+## Visual Studio user-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Build results / Output directories
+[Bb]in/
+[Bb]ag/
+[Dd]ebug/
+[R3]elease/
+x64/
+x86/
+[Aa]rm/
+[Aa]rm64/
+build/
+
+## Visual Studio cache & temporary files
+.vs/
+.vscode/
+*.cache
+*.sublime-workspace
+
+## User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## JetBrains Rider / ReSharper
+.idea/
+*.sln.iml
+
+## OS generated files
+.DS_Store
+Thumbs.db
