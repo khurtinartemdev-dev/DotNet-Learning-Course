@@ -1,38 +1,81 @@
-## Visual Studio user-specific files
-*.rsuser
-*.suo
+## =========================================
+## Visual Studio & IDE files
+## =========================================
+.vs/
+.vscode/
+.idea/
+*.sln.docstates
 *.user
 *.userosscache
-*.sln.docstates
+*.suo
+*.userprefs
+*.rsuser
+*.DotSettings.user
 
-## Build results / Output directories
+## =========================================
+## Build Output & Temporary Files
+## =========================================
 [Bb]in/
-[Bb]ag/
+[Oo]bj/
 [Dd]ebug/
-[R3]elease/
+[Rr]elease/
 x64/
 x86/
 [Aa]rm/
 [Aa]rm64/
 build/
+publish/
 
-## Visual Studio cache & temporary files
-.vs/
-.vscode/
+## =========================================
+## C# / .NET / Visual Studio Cache & Logs
+## =========================================
 *.cache
 *.sublime-workspace
+*_i.c
+*_p.c
+*_i.h
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.scc
 
-## User-specific files
-*.rsuser
-*.suo
-*.user
-*.userosscache
-*.sln.docstates
+## =========================================
+## Testing & Coverage
+## =========================================
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+*.coverage
+*.coveragexml
 
-## JetBrains Rider / ReSharper
-.idea/
-*.sln.iml
+## =========================================
+## Packages & Web
+## =========================================
+*.nupkg
+# Раскомментируйте, если не используете NuGet Package Restore:
+# packages/
 
-## OS generated files
+## =========================================
+## OS Generated Files
+## =========================================
 .DS_Store
 Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
