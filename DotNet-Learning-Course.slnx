@@ -2,4 +2,5 @@
   <Project Path="Lesson01_Basics/Lesson01_Basics.csproj" />
   <Project Path="Lesson02_Conditions/Lesson02_Conditions.csproj" Id="78eee915-889f-41e6-8250-50026b64b0f5" />
   <Project Path="Lesson03_Loops/Lesson03_Loops.csproj" Id="fcda417d-5342-4a49-9b4f-3975d3f73259" />
+  <Project Path="Lesson04_Arrays/Lesson04_Arrays.csproj" Id="e9932877-3d3b-4e3a-b970-76053d7d1150" />
 </Solution>
