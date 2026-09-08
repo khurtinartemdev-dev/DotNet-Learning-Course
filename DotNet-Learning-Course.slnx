@@ -4,4 +4,5 @@
   <Project Path="Lesson03_Loops/Lesson03_Loops.csproj" Id="fcda417d-5342-4a49-9b4f-3975d3f73259" />
   <Project Path="Lesson04_Arrays/Lesson04_Arrays.csproj" Id="e9932877-3d3b-4e3a-b970-76053d7d1150" />
   <Project Path="Lesson05_Lists/Lesson05_Lists.csproj" Id="89ac904d-3c09-4f40-9cb8-0655f4a165a5" />
+  <Project Path="Lesson06_Methods/Lesson06_Methods.csproj" Id="6df3f30b-ced8-48dd-9584-90ff4f90e940" />
 </Solution>
