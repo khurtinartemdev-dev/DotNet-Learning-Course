@@ -11,4 +11,5 @@
   <Project Path="Lesson10_Properties/Lesson10_Properties.csproj" Id="03afd124-e7e8-4b26-ad22-30a5ecd24095" />
   <Project Path="Lesson11_Inheritance/Lesson11_Inheritance.csproj" Id="26752f2c-bce7-4af5-be3a-cd077d366731" />
   <Project Path="Lesson12_Polymorphism/Lesson12_Polymorphism.csproj" Id="f76f7c76-ac87-4814-b933-2abe069c550a" />
+  <Project Path="Lesson13_AbstractClasses/Lesson13_AbstractClasses.csproj" Id="5e883b17-957e-47f1-b21f-b3e86b28bf82" />
 </Solution>
