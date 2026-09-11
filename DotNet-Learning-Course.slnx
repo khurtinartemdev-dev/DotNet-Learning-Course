@@ -10,4 +10,5 @@
   <Project Path="Lesson09_Constructors/Lesson09_Constructors.csproj" Id="67e21287-122f-42e8-a545-c75c936afe7d" />
   <Project Path="Lesson10_Properties/Lesson10_Properties.csproj" Id="03afd124-e7e8-4b26-ad22-30a5ecd24095" />
   <Project Path="Lesson11_Inheritance/Lesson11_Inheritance.csproj" Id="26752f2c-bce7-4af5-be3a-cd077d366731" />
+  <Project Path="Lesson12_Polymorphism/Lesson12_Polymorphism.csproj" Id="f76f7c76-ac87-4814-b933-2abe069c550a" />
 </Solution>
