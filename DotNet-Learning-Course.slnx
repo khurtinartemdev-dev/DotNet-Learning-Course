@@ -13,4 +13,5 @@
   <Project Path="Lesson12_Polymorphism/Lesson12_Polymorphism.csproj" Id="f76f7c76-ac87-4814-b933-2abe069c550a" />
   <Project Path="Lesson13_AbstractClasses/Lesson13_AbstractClasses.csproj" Id="5e883b17-957e-47f1-b21f-b3e86b28bf82" />
   <Project Path="Lesson14_Interfaces/Lesson14_Interfaces.csproj" Id="3f11261c-91b5-488c-b7dc-34f90fb2279a" />
+  <Project Path="Lesson15_Generics/Lesson15_Generics.csproj" Id="6d88cca8-40a3-45a0-bbed-65c487d5bb9f" />
 </Solution>
