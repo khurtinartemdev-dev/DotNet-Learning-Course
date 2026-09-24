@@ -14,4 +14,5 @@
   <Project Path="Lesson13_AbstractClasses/Lesson13_AbstractClasses.csproj" Id="5e883b17-957e-47f1-b21f-b3e86b28bf82" />
   <Project Path="Lesson14_Interfaces/Lesson14_Interfaces.csproj" Id="3f11261c-91b5-488c-b7dc-34f90fb2279a" />
   <Project Path="Lesson15_Generics/Lesson15_Generics.csproj" Id="6d88cca8-40a3-45a0-bbed-65c487d5bb9f" />
+  <Project Path="Lesson16_GenericConstraints/Lesson16_GenericConstraints.csproj" Id="3403d4bf-950d-4ddd-a032-37ef8f2caef2" />
 </Solution>
